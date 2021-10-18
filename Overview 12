@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>page12</title>
+
+</head>
+
+<body>
+
+  Hello Dcoder
+
+</body>
+
+</html>
+
+<head>
+
+  
+
+</head>
+
+<body>
+
+  <div>
+
+    <h1>gamers zone</h1> 
+
+    <br>
+
+      <h2>welcome to my page. to be a
+
+       xpro forever loggin first</h2>
+
+       <br>
+
+         <p>what is <strong>xpro?</strong>
+
+         xpro is where gamers build stuff 
+
+         together </p>
+
+         </p>
+
+         <input placeholder="loggin"
+
+         type="Email"><button>
+
+           <strong>submit</strong>  
+
+         </button>
+
+           <input placeholder="password" 
+
+           type="password"><button>
+
+             <strong>submit</strong></button>
+
+           </div> 
+
+</body>
+</html>
